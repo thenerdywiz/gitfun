@@ -1,0 +1,12 @@
+
+/* Class = "UITextField"; placeholder = "Sound Name"; ObjectID = "L9f-Cp-f5v"; */
+"L9f-Cp-f5v.placeholder" = "Sound Name";
+
+/* Class = "UIButton"; normalTitle = "Play"; ObjectID = "Lqs-w7-KUC"; */
+"Lqs-w7-KUC.normalTitle" = "Play";
+
+/* Class = "UIButton"; normalTitle = "Record"; ObjectID = "OMd-xv-dtP"; */
+"OMd-xv-dtP.normalTitle" = "Record";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "o7D-9y-RHP"; */
+"o7D-9y-RHP.normalTitle" = "Add";
